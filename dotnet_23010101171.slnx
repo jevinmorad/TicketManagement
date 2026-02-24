@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="dotnet_2301010110.Application/dotnet_23010101171.Application.csproj" />
+  <Project Path="dotnet_23010101171.Api/dotnet_23010101171.Api.csproj" />
+  <Project Path="dotnet_23010101171.Core/dotnet_23010101171.Core.csproj" />
+  <Project Path="dotnet_23010101171.Infrastructure/dotnet_23010101171.Infrastructure.csproj" />
+</Solution>
